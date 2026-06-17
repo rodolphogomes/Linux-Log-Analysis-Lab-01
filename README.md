@@ -20,12 +20,15 @@
 
 ### Successful login
 
+![Accepted](https://github.com/rodolphogomes/Linux-Log-Analysis-Lab-01/blob/main/Screenshots/auth.log_accepted.png)
 
 ### Login attempt failed
 
+![Failed](https://github.com/rodolphogomes/Linux-Log-Analysis-Lab-01/blob/main/Screenshots/auth.log_failed.png)
 
 ## Active services
 
+![Systemctl/Active Services](https://github.com/rodolphogomes/Linux-Log-Analysis-Lab-01/blob/main/Screenshots/systemctl.png)
 
 ## Conclusion
 
